@@ -17,14 +17,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
     },
     {
-      "chainId": 5001,
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "name": "BitDAO",
-      "symbol": "BIT",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x0000000000000000000000000000000000000000",
       "name": "Ether",
