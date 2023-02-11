@@ -23,6 +23,14 @@
       "symbol": "WBIT",
       "decimals": 18,
       "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
+    },
+    {
+      "chainId": 5001,
+      "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/DAI/logo.png"
     },    
     {
       "chainId": 5001,
@@ -42,7 +50,7 @@
     },
     {
       "chainId": 5001,
-      "address": "0x2ED3c15eC59CE827c4aBBabfF76d37562558437D",
+      "address": "0x6926f4A999583868c01D494A8Be710aFA3674a6c",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -50,7 +58,7 @@
     },
     {
       "chainId": 5001,
-      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F",
+      "address": "0xF8B3034805e3d4409A0290E40bFB32cC3c909D54",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
