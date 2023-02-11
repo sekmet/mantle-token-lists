@@ -10,22 +10,6 @@
   "tokens": [
     {
       "chainId": 5001,
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",      
-      "name": "BitDAO",
-      "symbol": "BIT",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
-    },    
-    {
-      "chainId": 5001,
-      "address": "0x2A2175cD216Da68E46e8621A4C09fcEf0DEDCcE2",
-      "name": "Wrapped BitDAO",
-      "symbol": "WBIT",
-      "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
-    },
-    {
-      "chainId": 5001,
       "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
       "name": "Ether",
       "symbol": "ETH",
@@ -71,6 +55,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg"
+    },
+    {
+      "chainId": 5001,
+      "address": "0x2A2175cD216Da68E46e8621A4C09fcEf0DEDCcE2",
+      "name": "Wrapped BitDAO",
+      "symbol": "WBIT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg",
     }
   ],
   "version": {
