@@ -1,0 +1,73 @@
+{
+  "name": "Mantle Cloakswap",
+  "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2023-02-08T09:38:45.488Z",
+  "tokens": [
+    {
+      "chainId": 5001,
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg"
+    },
+    {
+      "chainId": 5001,
+      "address": "0x2A2175cD216Da68E46e8621A4C09fcEf0DEDCcE2",
+      "name": "Wrapped BitDAO",
+      "symbol": "WBIT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
+    },    
+    {
+      "chainId": 5001,
+      "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.png"
+    },
+    {
+      "chainId": 5001,
+      "address": "0x7AD75528ad538B8E28b624033DD3C10F2Ad96a37",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png"
+    },
+    {
+      "chainId": 5001,
+      "address": "0x2ED3c15eC59CE827c4aBBabfF76d37562558437D",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png"
+    },
+    {
+      "chainId": 5001,
+      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.png"
+    },
+    {
+      "chainId": 5001,
+      "address": "0x9155d6bFD923398D77292a2781D3E4acfD3cFFd6",
+      "name": "Wrapped BTC L2",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
