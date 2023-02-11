@@ -62,7 +62,7 @@
       "name": "Wrapped BitDAO",
       "symbol": "WBIT",
       "decimals": 18,
-      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg",
+      "logoURI": "https://token-list.mantle.xyz/data/BitDAO/logo.svg"
     }
   ],
   "version": {
